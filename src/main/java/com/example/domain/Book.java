@@ -7,7 +7,7 @@ import lombok.Setter;
  * @author bz_c
  * @version 1.0
  * domain
- * 对domain的第一次修改
+ * 对domain的第二次修改
  */
 @Setter
 @Getter
