@@ -8,6 +8,7 @@ import java.util.List;
 /**
  * @author bz_c
  * @version 1.0
+ * 对service的第一次修改
  */
 @Transactional
 public interface BookService {
