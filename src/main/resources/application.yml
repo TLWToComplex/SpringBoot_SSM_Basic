@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: @jdbc.url@
+    username: lchf
+    password: 921125...
+    driver-class-name: com.mysql.cj.jdbc.Driver
