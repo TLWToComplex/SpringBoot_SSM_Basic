@@ -9,7 +9,7 @@ import java.util.List;
  * @author bz_c
  * @version 1.0
  */
-@Transactional
+@Transactional  // 声明事务的注解
 public interface BookService {
     boolean save(Book book);
 
