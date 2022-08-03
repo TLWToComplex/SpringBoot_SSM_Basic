@@ -10,7 +10,7 @@ import java.util.List;
  * @version 1.0
  * 注解自动装配
  * 我进行了dao的第一次修改操作
- * 使用IDEA对DAO进行修改
+ * 使用IDEA对DAO进行修改测试
  */
 @SuppressWarnings("all")
 @Mapper
